@@ -8,6 +8,6 @@ import ru.saydumarov.client.panels.north.HeaderPanelSample;
 public class ProfilePage implements EntryPoint {
 
     public void onModuleLoad() {
-        RootPanel.get().add(new HeaderPanelSample());
+        RootPanel.get("getsome").add(new HeaderPanelSample());
     }
 }
