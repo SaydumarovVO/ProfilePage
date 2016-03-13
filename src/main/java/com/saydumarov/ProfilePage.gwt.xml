@@ -10,8 +10,9 @@
     <inherits name="com.google.gwt.uibinder.UiBinder"/>
 
 
+    <entry-point class="com.saydumarov.client.ProfilePage"/>
+
     <source path="client"/>
 
-    <entry-point class="ru.saydumarov.client.ProfilePage"/>
 
 </module>

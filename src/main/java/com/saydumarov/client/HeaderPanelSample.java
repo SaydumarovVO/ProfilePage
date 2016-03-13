@@ -1,4 +1,4 @@
-package ru.saydumarov.client.panels.north;
+package com.saydumarov.client;
 
 
 import com.google.gwt.core.client.GWT;

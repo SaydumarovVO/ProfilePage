@@ -14,10 +14,7 @@
 
 
     <gwt:HTMLPanel>
+        <h1>Inside ui Binder</h1>
         <p:PaperButton>Button</p:PaperButton>
-
-
-
-
     </gwt:HTMLPanel>
 </ui:UiBinder>
